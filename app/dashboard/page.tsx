@@ -1,3 +1,6 @@
+"use client";
+
+
 import { useState } from 'react';
 import AgentCard from '../../components/ui/AgentCard';
 import { useStream } from '@/lib/useStream';
