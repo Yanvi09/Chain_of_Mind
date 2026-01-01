@@ -1,6 +1,6 @@
 # 🧠 Chain of Mind – AI Task Planner
 
-An intelligent, streaming task planner built in **5 hours** — inspired by OpenAI Copilot UX.  
+An intelligent task-planning application inspired by modern AI-assisted workflows and Copilot-style UX.  
 Reads your goal → breaks it into steps → streams the plan into a sleek UI card.
 
 Tested. Deployed. Fake streaming included. Built to showcase frontend ✕ AI ✕ UX skills.
@@ -29,6 +29,14 @@ Tested. Deployed. Fake streaming included. Built to showcase frontend ✕ AI ✕
 
 ---
 
+## 🎯 Focus Areas
+
+- Clean React component architecture with reusable UI blocks  
+- Predictable client-side state handling using hooks  
+- Simulated streaming responses to mirror real API behavior  
+- Emphasis on frontend performance, UX flow, and maintainability  
+
+----
 ## 📂 Project Structure
 
 ```bash
@@ -87,7 +95,7 @@ chain_of_mind/
 👩‍💻 Author
 Anvi Yadav
 Final-year CS student | Building production-ready, AI-powered frontend systems.
-Strong in React, API integration, and shipping polished features fast.
+Focused on building clean, maintainable React applications with reliable UI behavior and thoughtful user experience.
 
 🔗 GitHub: github.com/Yanvi09
 
